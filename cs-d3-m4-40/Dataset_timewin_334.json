@@ -1,0 +1,5 @@
+{"received packets":418,"IAT_Mean":0.004778009509492226,"IAT_Std":0.0008915375278351354,"IAT_Max":0.012204690468934132,"IAT_Min":0.0013719999988097698,"received_addresses":2,"max_pkt_from_sameId":398,"has_attacker":1}
+{"received packets":209,"IAT_Mean":0.00480914886767361,"IAT_Std":0.001150329687971249,"IAT_Max":0.010000526021030965,"IAT_Min":0.000162476600962691,"received_addresses":2,"max_pkt_from_sameId":199,"has_attacker":1}
+{"received packets":218,"IAT_Mean":0.008958712145746895,"IAT_Std":0.012919139575913648,"IAT_Max":0.05788479897819343,"IAT_Min":0.0012290001541259699,"received_addresses":4,"max_pkt_from_sameId":193,"has_attacker":1}
+{"received packets":31,"IAT_Mean":0.06443078445473445,"IAT_Std":0.04608655163314469,"IAT_Max":0.09999977335974109,"IAT_Min":0.00016300084462272935,"received_addresses":4,"max_pkt_from_sameId":15,"has_attacker":1}
+{"received packets":571,"IAT_Mean":0.0034979918020609818,"IAT_Std":0.004422707215329882,"IAT_Max":0.032081664467114027,"IAT_Min":0.0001123856200138107,"received_addresses":7,"max_pkt_from_sameId":306,"has_attacker":1}

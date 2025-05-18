@@ -1,0 +1,2 @@
+{"received packets":240,"IAT_Mean":0.008324844914007675,"IAT_Std":0.009373984269333936,"IAT_Max":0.03197402960722684,"IAT_Min":0.000163048789545428,"received_addresses":12,"max_pkt_from_sameId":20,"has_attacker":0}
+{"received packets":250,"IAT_Mean":0.00799187042505946,"IAT_Std":0.006882865146382295,"IAT_Max":0.022491028721560725,"IAT_Min":0.00016309624697896652,"received_addresses":13,"max_pkt_from_sameId":20,"has_attacker":0}
